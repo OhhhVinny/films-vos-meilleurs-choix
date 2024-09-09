@@ -1,0 +1,5 @@
+@use 'variables';
+
+.card {
+    background-color: variables.$primary;
+}
